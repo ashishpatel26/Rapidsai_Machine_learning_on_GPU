@@ -24,6 +24,3 @@ Outline
 Happy Learning
 
 ---
-
-
-
